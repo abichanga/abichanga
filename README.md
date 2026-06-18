@@ -9,8 +9,8 @@
 - 🔭 **Current Focus:** Currently working on a Trust scoring algorithm that will be implemented in a multi-category Household
 - Service Marketplace Application.
 - 🌱 **Learning & Exploration:** Getting deeper into full-stack apps with the MERN stack.
-- ⚡ **Core Interests:** What domains excite you most? (e.g., Data Science, Embedded Systems, Mobile Apps, Cybersecurity, Cloud Infrastructure)
-
+- ⚡ **Core Interests:** Data Science, Machine Learning
+  
 ---
 
 ## Technical Ecosystem
