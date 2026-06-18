@@ -2,12 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Your+Subtitle+or+Professional+Tagline+Here&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
 </p>
 
-# Hi there, I'm Anita Bichangs 👋
+# Hi there, I'm Anita Bichanga 👋
 
 
 
-- 🔭 **Current Focus:** What are you actively working on or building right now? (e.g., a specific project, thesis, or application)
-- 🌱 **Learning & Exploration:** What concepts, frameworks, or languages are you currently diving into?
+- 🔭 **Current Focus:** Currently working on a Trust scoring algorithm that will be implemented in a multi-category Household
+- Service Marketplace Application.
+- 🌱 **Learning & Exploration:** Getting deeper into full-stack apps with the MERN stack.
 - ⚡ **Core Interests:** What domains excite you most? (e.g., Data Science, Embedded Systems, Mobile Apps, Cybersecurity, Cloud Infrastructure)
 
 ---
